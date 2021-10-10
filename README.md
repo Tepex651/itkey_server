@@ -28,4 +28,4 @@ Unix:
 
 ### If you want to change settings
 1.  first change your docker-compose.yml file for services
-2.  expose the changes in the config.yaml file for client
+2.  expose current changes in the config.yaml file for client
