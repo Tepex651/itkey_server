@@ -8,14 +8,10 @@ docker-compose version 1.29.2 or later<br>
 
 Navigate to the main project directory and run: <br>
 Unix: `python virtualenv env` <br>
-Windows: `python -m virtualenv env`
 
 #### Use the virtual environment
 Unix: 
 `source env/bin/activate`
-
-Windows: 
-`env\Scripts\activate.bat`
 
 #### Install requirements.txt for client from main project directory (itkey_server/requirements.txt)
 
